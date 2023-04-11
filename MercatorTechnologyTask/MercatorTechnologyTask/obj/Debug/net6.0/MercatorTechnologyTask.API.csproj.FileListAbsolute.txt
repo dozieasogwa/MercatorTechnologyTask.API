@@ -1,0 +1,142 @@
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\appsettings.json
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\MercatorTechnologyTask.API.exe
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\MercatorTechnologyTask.API.deps.json
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\MercatorTechnologyTask.API.runtimeconfig.json
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\MercatorTechnologyTask.API.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\MercatorTechnologyTask.API.pdb
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.csproj.AssemblyReference.cache
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.AssemblyInfoInputs.cache
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.AssemblyInfo.cs
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.csproj.CoreCompileInputs.cache
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets\msbuild.MercatorTechnologyTask.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets\msbuild.build.MercatorTechnologyTask.API.props
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MercatorTechnologyTask.API.props
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MercatorTechnologyTask.API.props
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\scopedcss\bundle\MercatorTechnologyTask.API.styles.css
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.csproj.CopyComplete
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\refint\MercatorTechnologyTask.API.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.pdb
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.genruntimeconfig.cache
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\ref\MercatorTechnologyTask.API.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Core.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Data.Domain.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Data.Infrastructure.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Core.pdb
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Data.Domain.pdb
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Data.Infrastructure.pdb
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\MercatorTechnologyTask.API.exe
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\MercatorTechnologyTask.API.deps.json
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\MercatorTechnologyTask.API.runtimeconfig.json
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\MercatorTechnologyTask.API.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\MercatorTechnologyTask.API.pdb
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Core.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Data.Domain.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Data.Infrastructure.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Core.pdb
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Data.Domain.pdb
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\bin\Debug\net6.0\Mercator.Data.Infrastructure.pdb
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.AssemblyInfo.cs
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets\msbuild.MercatorTechnologyTask.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets\msbuild.build.MercatorTechnologyTask.API.props
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MercatorTechnologyTask.API.props
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MercatorTechnologyTask.API.props
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\scopedcss\bundle\MercatorTechnologyTask.API.styles.css
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.csproj.CopyComplete
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\refint\MercatorTechnologyTask.API.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.pdb
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.genruntimeconfig.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\ref\MercatorTechnologyTask.API.dll

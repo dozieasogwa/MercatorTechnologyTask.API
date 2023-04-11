@@ -1,0 +1,24 @@
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\bin\Debug\net6.0\Mercator.Data.Domain.deps.json
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\bin\Debug\net6.0\Mercator.Data.Domain.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\bin\Debug\net6.0\Mercator.Data.Domain.pdb
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.csproj.AssemblyReference.cache
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.AssemblyInfoInputs.cache
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.AssemblyInfo.cs
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\refint\Mercator.Data.Domain.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.pdb
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\ref\Mercator.Data.Domain.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\bin\Debug\net6.0\Mercator.Data.Domain.deps.json
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\bin\Debug\net6.0\Mercator.Data.Domain.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\bin\Debug\net6.0\Mercator.Data.Domain.pdb
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.AssemblyInfo.cs
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\refint\Mercator.Data.Domain.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\Mercator.Data.Domain.pdb
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Domain\obj\Debug\net6.0\ref\Mercator.Data.Domain.dll

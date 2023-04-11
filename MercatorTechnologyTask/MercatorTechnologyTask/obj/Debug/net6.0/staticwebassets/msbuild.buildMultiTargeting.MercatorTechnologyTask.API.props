@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MercatorTechnologyTask.API.props" />
+</Project>

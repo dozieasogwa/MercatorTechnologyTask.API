@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="TransactionServices\" />
+    <Folder Include="TerminalServices\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mercator.Data.Domain\Mercator.Data.Domain.csproj" />
+    <ProjectReference Include="..\Mercator.Data.Infrastructure\Mercator.Data.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

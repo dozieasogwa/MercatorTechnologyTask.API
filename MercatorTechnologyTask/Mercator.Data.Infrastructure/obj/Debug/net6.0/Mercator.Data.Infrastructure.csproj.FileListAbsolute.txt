@@ -1,0 +1,34 @@
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Infrastructure.deps.json
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Infrastructure.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Infrastructure.pdb
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Domain.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Domain.pdb
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.AssemblyInfo.cs
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.csproj.CopyComplete
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\refint\Mercator.Data.Infrastructure.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.pdb
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\ref\Mercator.Data.Infrastructure.dll
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Infrastructure.runtimeconfig.json
+C:\Users\ezech\Desktop\Daily Unblocking Recording\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.genruntimeconfig.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Infrastructure.deps.json
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Infrastructure.runtimeconfig.json
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Infrastructure.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Infrastructure.pdb
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Domain.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\bin\Debug\net6.0\Mercator.Data.Domain.pdb
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.csproj.CopyComplete
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\refint\Mercator.Data.Infrastructure.dll
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.pdb
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\Mercator.Data.Infrastructure.genruntimeconfig.cache
+C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\Mercator.Data.Infrastructure\obj\Debug\net6.0\ref\Mercator.Data.Infrastructure.dll
