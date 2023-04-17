@@ -10,7 +10,7 @@ namespace Mercator.Core.MerchantServices.Interface
     public interface IMerchantServices
     {
         Merchant Get(long id);
-        void Delete(int id);
+        void Delete(long id);
         void Add(Merchant entity);
         List<Merchant> GetAll();
         void Update(Merchant entity);

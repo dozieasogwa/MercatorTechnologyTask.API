@@ -8,15 +8,15 @@ using System.Threading.Tasks;
 
 namespace Mercator.Data.Infrastructure
 {
-    public class MercatorContext: DbContext
+    public class MercatorContext : DbContext
     {
-        public MercatorContext(DbContextOptions<MercatorContext> dbContextOptions) :base(dbContextOptions)
+        public MercatorContext(DbContextOptions<MercatorContext> dbContextOptions) : base(dbContextOptions)
         {
 
         }
-        DbSet<Transaction>  Transactions { get; set; }
-        DbSet<Merchant> Merchants { get; set; }
-        DbSet<Terminal> Terminals { get; set; }
+        public DbSet<Transaction> Transactions { get; set; }
+        public DbSet<Merchant> Merchants { get; set; }
+        public DbSet<Terminal> Terminals { get; set; }
 
     }
 }

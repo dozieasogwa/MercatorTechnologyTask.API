@@ -1,5 +1,9 @@
 using Mercator.Core.MerchantServices.Interface;
 using Mercator.Core.MerchantServices.Services;
+using Mercator.Core.TerminalServices.Interface;
+using Mercator.Core.TerminalServices.Services;
+using Mercator.Core.TransactionServices.Interface;
+using Mercator.Core.TransactionServices.Services;
 using Mercator.Data.Domain.AggregateModel.Entities;
 using Mercator.Data.Domain.Infrastructure;
 using Mercator.Data.Infrastructure;
@@ -15,7 +19,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IMerchantServices, MerchantServices>();
+builder.Services.AddScoped<ITerminalServices, TerminalServices>();
+builder.Services.AddScoped<ITransactionServices, TransactionServices>();
 builder.Services.AddTransient<IGenericRepository<Merchant>, GenericRepository<Merchant>>();
+builder.Services.AddTransient<IGenericRepository<Terminal>, GenericRepository<Terminal>>();
+builder.Services.AddTransient<IGenericRepository<Transaction>, GenericRepository<Transaction>>();
 builder.Services.AddDbContext<MercatorContext>(options =>
 options.UseSqlServer((builder.Configuration.GetConnectionString("Mercator"))));
 

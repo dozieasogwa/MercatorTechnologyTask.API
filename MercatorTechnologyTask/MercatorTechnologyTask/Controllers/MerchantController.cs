@@ -36,14 +36,14 @@ namespace MercatorTechnologyTask.API.Controllers
                     };
                     _merchantServices.Add(merchant);
                     await _unitOfWork.Save();
-                  
+
                 }
                 return Ok();
             }
             catch (Exception ex)
             {
 
-                return BadRequest(ex.Message);  
+                return BadRequest(ex.Message);
             }
         }
         [HttpGet]
@@ -72,6 +72,17 @@ namespace MercatorTechnologyTask.API.Controllers
 
                 return BadRequest(ex.Message);
             }
+        }
+        [HttpDelete]
+        public async Task<IActionResult> DeleteATRANSACTION(long id)
+        {
+            if (id > 0)
+            {
+                _merchantServices.Delete(id);
+                await _unitOfWork.Save();
+                return Ok();
+            }
+            return BadRequest();
         }
     }
 }

@@ -4,7 +4,7 @@
 
 namespace Mercator.Data.Infrastructure.Migrations
 {
-    public partial class MyFirstMigration : Migration
+    public partial class FirstDB : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -32,15 +32,14 @@ namespace Mercator.Data.Infrastructure.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Terminaltype = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Location = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    MerchantId1 = table.Column<long>(type: "bigint", nullable: false),
-                    MerchantId = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    MerchantId = table.Column<long>(type: "bigint", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Terminals", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Terminals_Merchants_MerchantId1",
-                        column: x => x.MerchantId1,
+                        name: "FK_Terminals_Merchants_MerchantId",
+                        column: x => x.MerchantId,
                         principalTable: "Merchants",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -68,9 +67,9 @@ namespace Mercator.Data.Infrastructure.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Terminals_MerchantId1",
+                name: "IX_Terminals_MerchantId",
                 table: "Terminals",
-                column: "MerchantId1");
+                column: "MerchantId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Transactions_TerminalId",

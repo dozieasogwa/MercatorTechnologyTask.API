@@ -124,7 +124,6 @@ C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTas
 C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.AssemblyInfoInputs.cache
 C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.AssemblyInfo.cs
 C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\MercatorTechnologyTask.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets\msbuild.MercatorTechnologyTask.API.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Administrator\Documents\MercatorTechnologyTask[1]\MercatorTechnologyTask\MercatorTechnologyTask\obj\Debug\net6.0\staticwebassets\msbuild.build.MercatorTechnologyTask.API.props

@@ -22,14 +22,14 @@ namespace Mercator.Core.MerchantServices.Services
             _unitOfWork.Marchants.Add(entity);
         }
 
-        public void Delete(int id)
+        public void Delete(long id)
         {
             _unitOfWork.Marchants.Delete(id);
         }
 
         public Merchant Get(long id)
         {
-           return _unitOfWork.Marchants.Get(id);
+            return _unitOfWork.Marchants.Get(id);
         }
 
         public List<Merchant> GetAll()
@@ -44,4 +44,4 @@ namespace Mercator.Core.MerchantServices.Services
     }
 
 }
-    
+

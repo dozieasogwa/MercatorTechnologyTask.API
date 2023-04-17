@@ -13,6 +13,6 @@ namespace Mercator.Data.Domain.AggregateModel.Entities
         public string Location { get; set; }
         public ICollection<Transaction> Transactions { get; set; }
         public virtual Merchant Merchant { get; set; }
-        public string MerchantId { get; set; }
+        public long MerchantId { get; set; }
     }
 }

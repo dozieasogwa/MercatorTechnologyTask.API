@@ -20,18 +20,18 @@ namespace Mercator.Data.Domain.Infrastructure
         public void Add(T entity)
         {
             _dbSet.Add(entity);
-            
+
         }
 
-        public void Delete(int id)
+        public void Delete(long id)
         {
             var entity = _dbSet.Find(id);
             _dbSet.Remove(entity);
         }
 
-        public  T Get(long id)
+        public T Get(long id)
         {
-            return  _dbSet.Find(id);
+            return _dbSet.Find(id);
         }
 
         public List<T> GetAll()

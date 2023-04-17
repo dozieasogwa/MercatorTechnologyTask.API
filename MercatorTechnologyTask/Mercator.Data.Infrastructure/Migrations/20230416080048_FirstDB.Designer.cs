@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Mercator.Data.Infrastructure.Migrations
 {
     [DbContext(typeof(MercatorContext))]
-    [Migration("20230411030201_MyFirstMigration")]
-    partial class MyFirstMigration
+    [Migration("20230416080048_FirstDB")]
+    partial class FirstDB
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -65,11 +65,7 @@ namespace Mercator.Data.Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("MerchantId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<long>("MerchantId1")
+                    b.Property<long>("MerchantId")
                         .HasColumnType("bigint");
 
                     b.Property<string>("Terminaltype")
@@ -78,7 +74,7 @@ namespace Mercator.Data.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("MerchantId1");
+                    b.HasIndex("MerchantId");
 
                     b.ToTable("Terminals");
                 });
@@ -116,7 +112,7 @@ namespace Mercator.Data.Infrastructure.Migrations
                 {
                     b.HasOne("Mercator.Data.Domain.AggregateModel.Entities.Merchant", "Merchant")
                         .WithMany("Terminals")
-                        .HasForeignKey("MerchantId1")
+                        .HasForeignKey("MerchantId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
